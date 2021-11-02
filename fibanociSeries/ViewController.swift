@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         }
         
         //print("result = \(num2)")
-        print("teja goud added login page")
     }
 
 
